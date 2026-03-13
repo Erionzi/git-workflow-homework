@@ -4,3 +4,5 @@ Version 2 of project
 Added some changes
 
 Final Version
+
+Temporary change that will be lost
