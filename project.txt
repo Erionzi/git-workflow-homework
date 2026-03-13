@@ -1,6 +1,4 @@
 Version 1 of project
-
 Version 2 of project
 Added some changes
-
 Final Version
